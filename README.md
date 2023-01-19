@@ -167,9 +167,13 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![OUTPUT1](/static/images/out1(2).png)
-![OUTPUT2](/static/images/out1(2).png)
-![OUTPUT3](/static/images/out1(2).png)
+![out1 (2)](https://user-images.githubusercontent.com/118343379/213449745-05c7e4ae-c5f5-41e5-82f9-0f5cdea6bb03.png)
+![out2 (2)](https://user-images.githubusercontent.com/118343379/213449773-647c6f3e-9694-4445-906d-f37e5af1e451.png)
+![out3](https://user-images.githubusercontent.com/118343379/213449801-f0d83ea3-838f-431b-a510-2bd05be0024e.png)
+### HTML VALIDATOR
+![Screenshot (98)](https://user-images.githubusercontent.com/118343379/213449861-99c31d0f-0db6-4477-b982-62ff12f192ee.png)
+
+
 ## Result:
 Thus we designed a web application for a standard calculator.
 
